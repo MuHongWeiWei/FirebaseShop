@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1080304445469",
+    "firebase_url": "https://fir-shop-af07b.firebaseio.com",
+    "project_id": "fir-shop-af07b",
+    "storage_bucket": "fir-shop-af07b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080304445469:android:89e1a934f54264fa",
+        "android_client_info": {
+          "package_name": "com.fly.shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080304445469-blb52dbk7gca6liah18ckhlv2nkru2ni.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fly.shop",
+            "certificate_hash": "c0873bb3c39bad361d821000deac68ce916d6cbe"
+          }
+        },
+        {
+          "client_id": "1080304445469-tirr0thdje73ikakgoaj4fidldll1emr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfbYbP94w8HL6b2PkMQkrubC9xX2j73TU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080304445469-tirr0thdje73ikakgoaj4fidldll1emr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
